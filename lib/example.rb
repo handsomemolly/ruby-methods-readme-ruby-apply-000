@@ -11,8 +11,3 @@ puts phrase
 puts phrase
 puts phrase
 puts phrase
-authenticate_or_request_with_http_basic
-def greeting
-  puts "Hey Ryan"
-end
-greeting
